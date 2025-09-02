@@ -1,0 +1,10 @@
+2025-09-01 23:42:12 - --- ADMIN ONAY KONTROL TESTİ BAŞLADI ---
+2025-09-01 23:42:12 - 1. Gelen Bilgiler:
+2025-09-01 23:42:12 -    - İstek ID: 14
+2025-09-01 23:42:12 -    - Durum (Status): 'approved'
+2025-09-01 23:42:12 - 2. Veritabanından Kullanıcı Bilgileri Aranıyor...
+2025-09-01 23:42:12 -    - Kullanıcı bulundu: asdasd (randomhesapgen@gmail.com)
+2025-09-01 23:42:12 - 3. E-posta Şablonu Seçimi:
+2025-09-01 23:42:12 - HATA: Gelen durum (status) değeri ne 'completed' ne de 'rejected' ile eşleşmiyor.
+2025-09-01 23:42:12 - SONUÇ: E-posta gönderilmedi çünkü bir şablon seçilemedi veya kullanıcı bilgisi bulunamadı.
+2025-09-01 23:42:12 - --- TEST BİTTİ ---
